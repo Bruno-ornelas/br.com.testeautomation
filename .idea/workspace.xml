@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a362c15-e118-44ea-b0ae-e936becaba6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIxfaRNkqYNpoQwXN4rIGzA9RR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/driver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NOTEBOOK\IdeaProjects\br.com.testeautomation\src\test\java\Features" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NOTEBOOK\IdeaProjects\br.com.testeautomation\src\driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Validar_busca_produtos_online">
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Login.feature" />
+      <option name="GLUE" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="br.com.testeautomation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Validar_busca_produtos_online" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Validar_busca_produtos_online.feature" />
+      <option name="GLUE" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="br.com.testeautomation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Validar_busca_produtos_online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Realizar a busca de um produto no site" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Validar_busca_produtos_online.feature" />
+      <option name="GLUE" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="br.com.testeautomation" />
+      <option name="NAME_FILTER" value="^Realizar a busca de um produto no site$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Realizar a busca de um produto no site$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Realizar a busca de um produto no site" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Validar_busca_produtos_online" />
+        <item itemvalue="Cucumber java.Scenario: Realizar a busca de um produto no site" />
+        <item itemvalue="Cucumber java.Feature: Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a362c15-e118-44ea-b0ae-e936becaba6f" name="Default Changelist" comment="" />
+      <created>1582644013857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582644013857</updated>
+      <workItem from="1582644018604" duration="2855000" />
+      <workItem from="1582669821238" duration="3634000" />
+      <workItem from="1582673532894" duration="8467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Notifications" timestamp="1582673568276">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1582673568276" />
+    <state x="275" y="25" key="#Project_Structure" timestamp="1582670168082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1582670168082" />
+    <state x="426" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582646031129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582646031129" />
+    <state width="1323" height="45" key="GridCell.Tab.0.bottom" timestamp="1582681870356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="45" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582681870356" />
+    <state width="1323" height="45" key="GridCell.Tab.0.center" timestamp="1582681870356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="45" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582681870356" />
+    <state width="1323" height="45" key="GridCell.Tab.0.left" timestamp="1582681870356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="45" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582681870356" />
+    <state width="1323" height="45" key="GridCell.Tab.0.right" timestamp="1582681870356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="45" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582681870356" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1582673805575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582673805575" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1582673805575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582673805575" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1582673805575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582673805575" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1582673805575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582673805575" />
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1582674883224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582674883224" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1582673646515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582673646515" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1582673541635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582673541635" />
+    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1582644161536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1582644161536" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582673381395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582673381395" />
+  </component>
+</project>
